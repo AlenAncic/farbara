@@ -1,0 +1,16 @@
+body {
+    background-color:darkgrey;
+}
+div {
+background-color: beige;
+}
+.prvi {
+    width: 30%;
+    border: 3px solid;
+    color:blue;
+}
+.drugi {
+    width: 30%;
+    border: 3px dashed;
+    color: grey;
+}
